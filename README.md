@@ -1,4 +1,5 @@
 Anaconda Environment Setup
+
 This guide walks through the installation and configuration process for an Anaconda environment. This guide includes the following:
 
 Download and installation of Anaconda distribution for Python 3
